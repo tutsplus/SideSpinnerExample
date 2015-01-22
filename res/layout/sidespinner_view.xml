@@ -1,0 +1,16 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+	<Button
+        android:id="@+id/sidespinner_view_previous"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/sidespinner_view_value"/> 
+   <TextView
+        android:id="@+id/sidespinner_view_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp" />
+   <Button
+        android:id="@+id/sidespinner_view_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</merge>

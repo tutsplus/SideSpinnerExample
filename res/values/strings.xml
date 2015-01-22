@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SideSpinnerExample</string>
+    <string name="title_activity_main">Side spinner compound view example</string>
+
+    <string-array name="vegetable_array">
+        <item>Cucumber</item>
+        <item>Potato</item>
+        <item>Tomato</item>
+        <item>Onion</item>
+        <item>Squash</item>
+    </string-array>  
+</resources>
